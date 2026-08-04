@@ -1,4 +1,4 @@
-local game_id = 6035872082
+local game_id = 17625359962
 
 if getgenv().HI_I_HAVE_BALL_CANCER == true or game.GameId ~= game_id then
 	return
